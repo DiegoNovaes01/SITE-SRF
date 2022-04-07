@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "waymea-bay.php",
+			"settings":
+			{
+				"buffer_size": 28064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAJYEAAAAAAAAlwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgQAAAAAAACWBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAAQFAAAAAAAABQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAUAAAAAAAAEBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/urbano-spana.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/urbano-spain.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/urbano-italian.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/urbano-armenian.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/sp-empresarial.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/responsabilidade-socioambiental.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/pronto-para-morar.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/principios-de-qualidade.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/nossas-crencas.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/lancamento.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/index.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/imoveis-em-destaque.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/header.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/footer.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/fale-conosco.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/empreendimentos-geral.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/duvidas-frequentes.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/destaque-prontos.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/destaque-misto.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/destaque-home.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/construcao.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/conheca-a-srf.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/boulevart-flamboyant.php",
+		"/D/01-Trabalhos/SRF Incorporadora/Atualizar certificado/anunciattadlucia.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/web/css/style.css",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/web/index.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/web/urbano-armenian.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/web/urbano-italian.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/web/footer.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/web/header.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/index.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/header.php",
+		"/D/01-Trabalhos/ACP Construtora/Backup SRF FTP/footer.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http",
+			"owl-carouse",
+			"owl-carousel",
+			"img-fluid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "waymea-bay.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "empreendimentos-geral.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
